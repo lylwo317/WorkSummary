@@ -1,3 +1,7 @@
-# My Awesome Book
+# 这三个月工作总结
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+来盯盯拍已经三个月了，这期间主要是
+1. 修bug
+2. 对盯盯拍做了相关优化
+3. 完成轨迹列表页面
+4. 完成排行榜页面
