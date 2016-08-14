@@ -10,5 +10,6 @@
        * [优化App卡顿和低端手机上高崩溃概率](you_hua_app_xing_neng.md)
        * [调整混淆配置，使得行号保留](diao_zheng_hun_yao_pei_zhi_ff0c_shi_de_xing_hao_ba.md)
    * 新功能
+       * 轨迹页面
 * 技术交流
 
