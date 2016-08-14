@@ -7,7 +7,7 @@
 主线程执行耗时<font color=#FF0000>IO操作</font>，这里主要是<font color=#FF0000>对象的序列化操作</font>
 
 ## 分析过程
-使用**TraceView**工具进行检测
+使用**TraceView**工具进行检测，详细分析过程可以[查看博客](http://blog.csdn.net/lylwo317/article/details/52124248)
 ![测试](QQ截图20160721190832.png)
 
 ## 解决方案
