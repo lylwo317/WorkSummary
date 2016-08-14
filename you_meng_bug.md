@@ -62,4 +62,4 @@ AbsActionbarActivity.java
 
 
 ## 后续的工作
-我使用DDMS模拟了后台杀死App操作，然后从最近应用程序列表打开App，程序无法自动重启，原因出在了Intent的Flag设置上。修正后，可以重启App了。
+我使用DDMS模拟了后台杀死App操作，然后从最近应用程序列表打开App，但程序无法自动重启。原因出在了Intent的Flag设置上。修正后，可以重启App了。
