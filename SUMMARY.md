@@ -11,7 +11,7 @@
        * [调整混淆配置，使得行号保留](diao_zheng_hun_yao_pei_zhi_ff0c_shi_de_xing_hao_ba.md)
    * 新功能
        * 轨迹页面
-       * 排行榜页面
+       * [排行榜页面](pai_xing_bang_ye_mian.md)
        * [引导页](yin_dao_ye.md)
 * 技术分享
    * [try-catch对性能影响分析](try-catchdui_xing_neng_ying_xiang_fen_xi.md)
