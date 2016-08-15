@@ -12,7 +12,7 @@
    * 新功能
        * 轨迹页面
        * 排行榜页面
-       * 引导页
+       * [引导页](yin_dao_ye.md)
 * 技术分享
    * [try-catch对性能影响分析](try-catchdui_xing_neng_ying_xiang_fen_xi.md)
    * [Java注解（Annotation）原理详解](javazhu_jie_ff08_annotation_ff09_yuan_li_xiang_jie.md)
