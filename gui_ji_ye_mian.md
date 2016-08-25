@@ -1,5 +1,4 @@
 # 轨迹页面
 
 ## 效果图
-
-![轨迹页面](Screenshot_20160815-161018.png)
+<img src="Screenshot_20160815-161018.png" width="400">
