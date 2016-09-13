@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * 指导文档
 * 工作内容
    * 修bug
        * [App频繁崩溃bug](you_meng_bug.md)
