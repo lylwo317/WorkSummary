@@ -12,7 +12,7 @@
        * [优化App卡顿和低端手机上高崩溃概率](you_hua_app_xing_neng.md)
        * [调整混淆配置，使得行号保留](diao_zheng_hun_yao_pei_zhi_ff0c_shi_de_xing_hao_ba.md)
        * [减少锁粒度，并防止线程持有锁时做耗时操作](jian_shao_suo_li_du_ff0c_bing_fang_zhi_xian_cheng_.md)
-       * UI
+       * 提升界面流畅性——UI线程优化
    * 新功能
        * [轨迹页面](gui_ji_ye_mian.md)
        * [排行榜页面](pai_xing_bang_ye_mian.md)
