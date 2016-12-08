@@ -4,8 +4,9 @@
 <img src="Screenshot_20161208-152422.png" width="400">
 
 ## 难点在于自然的渐变色过渡
-原生的渐变色比较生硬，然后上网找到一种优化方式，就是讲变化有线性渐变（y=x），变为曲线渐变（y=x²）。也可以参考源码
+原生的渐变色比较生硬，然后上网找到一种优化方式，就是将变化由线性渐变（y=x），变为曲线渐变（y=x²）。我已经将起修改成合适的工具类。以下是封装的源码
 
+使用
 ``` java
 private void updateProgressPaint()
 {
@@ -17,6 +18,7 @@ private void updateProgressPaint()
 }
 ```
 
+封装的工具类
 ``` java
 public class GradientUtil
 {
