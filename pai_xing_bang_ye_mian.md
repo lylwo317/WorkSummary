@@ -1,4 +1,12 @@
 # 排行榜页面
+
+## 头部效果实现
+
+参考Github项目
+
+[SubtitleCoordinatorLayoutExample](https://github.com/harcoPro/SubtitleCoordinatorLayoutExample)
+
+## RecycleViewAdapter封装
 <img src="Screenshot_20160825-095554.png" width="400">
 
 数据源转换
