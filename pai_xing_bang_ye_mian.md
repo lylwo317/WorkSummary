@@ -11,6 +11,11 @@
 
 ## RecycleViewAdapter封装
 
+自己封装的UniversalRecyclerViewAdapter
+[GitHub项目地址](https://github.com/lylwo317/UniversalRecyclerViewAdapter)
+
+思想是：将getView中的变化部分，抽象化和子类化。让具体变化的部分在子类中实现。
+
 
 数据源转换
 ``` java
