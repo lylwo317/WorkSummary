@@ -9,4 +9,4 @@
 
 ## 项目地址
 
-[Github](git@github.com:lylwo317/MyShowcaseLayout.git)
+[Github](https://github.com/lylwo317/ShowcaseCoordinator)
